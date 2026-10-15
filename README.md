@@ -1,8 +1,6 @@
-<p align="center">
-  <img src="./profile-header.svg" width="100%" alt="Sandeep Kumar, software developer building web applications and tools with AI integrations">
-</p>
-
 <div align="center">
+
+<h1>Hi, I'm Sandeep Kumar <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" width="32" alt="waving hand"></h1>
 
 Software developer building web applications and tools with AI integrations.
 
