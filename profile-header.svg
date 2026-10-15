@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 280" role="img" aria-labelledby="title description">
+  <title id="title">Sandeep Kumar</title>
+  <desc id="description">Software developer building web applications and tools with AI integrations.</desc>
+  <defs>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M36 0H0V36" fill="none" stroke="#284044" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="280" fill="#10191c"/>
+  <rect width="1200" height="280" fill="url(#grid)" opacity=".62"/>
+  <path d="M760 0h440v280H890l-130-130z" fill="#143334"/>
+  <path d="M1000 0h200v280h-82l-118-118z" fill="#1a4240" opacity=".74"/>
+  <path d="M0 242h510" fill="none" stroke="#e6a75b" stroke-width="4"/>
+  <path d="M796 42h318v196H796z" fill="#10191c" stroke="#4b7772" stroke-width="2"/>
+  <path d="M796 82h318" fill="none" stroke="#4b7772" stroke-width="2"/>
+  <circle cx="821" cy="62" r="5" fill="#e6a75b"/>
+  <circle cx="841" cy="62" r="5" fill="#5bc0a8"/>
+  <circle cx="861" cy="62" r="5" fill="#d86f57"/>
+  <text x="80" y="116" fill="#f2f1e9" font-family="Arial, sans-serif" font-size="46" font-weight="700">SANDEEP KUMAR</text>
+  <text x="82" y="160" fill="#b9cbc7" font-family="Arial, sans-serif" font-size="21">SOFTWARE DEVELOPER</text>
+  <text x="82" y="195" fill="#b9cbc7" font-family="Arial, sans-serif" font-size="17">AI-POWERED WEB TOOLS  /  AGENTIC WORKFLOWS  /  OPEN SOURCE</text>
+  <text x="832" y="132" fill="#e6a75b" font-family="monospace" font-size="21">build(</text>
+  <text x="852" y="168" fill="#f2f1e9" font-family="monospace" font-size="20">web_apps,</text>
+  <text x="852" y="198" fill="#5bc0a8" font-family="monospace" font-size="20">ai_tools</text>
+  <text x="832" y="224" fill="#e6a75b" font-family="monospace" font-size="21">)</text>
+</svg>
