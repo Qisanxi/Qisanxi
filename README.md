@@ -1,6 +1,10 @@
-<div align="center">
+<p align="center">
+  <a href="https://octodex.github.com/"><img src="https://octodex.github.com/images/hula_loop_octodex03.gif" width="144" alt="Animated Octocat hula loop"></a>
+</p>
 
-<h1>Hi, I'm Sandeep Kumar <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" width="32" alt="waving hand"></h1>
+<h1 align="center">Hey, visitor!</h1>
+
+<div align="center">
 
 Software developer building web applications and tools with AI integrations.
 
@@ -66,3 +70,7 @@ Software developer building web applications and tools with AI integrations.
     <img width="75%" src="https://streak-stats.demolab.com/?user=Qisanxi&hide_border=true&theme=nightowl" alt="GitHub contribution streak">
   </p>
 </details>
+
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=Qisanxi&style=flat-square&color=0e8a82" alt="Profile views">
+</p>
