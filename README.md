@@ -1,27 +1,20 @@
-<p align="center">
-  <a href="https://octodex.github.com/"><img src="https://octodex.github.com/images/hula_loop_octodex03.gif" width="144" alt="Animated Octocat hula loop"></a>
-</p>
+<img align="right" width="180" src="https://octodex.github.com/images/hula_loop_octodex03.gif" alt="Animated Octocat hula loop">
 
-<h1 align="center">Hey, visitor!</h1>
+# Hey, visitor!
 
-<div align="center">
+I'm a developer from India, building web apps and AI-integrated tools. I'm learning cloud and AI harnesses while grinding through DSA and system design problems. I enjoy contributing to open source.
 
-Software developer building web applications and tools with AI integrations.
+<div align="left">
 
-<a href="https://sandeepqisanxidev.vercel.app"><img src="https://img.shields.io/badge/Website-Visit-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Website"></a>
-<a href="https://linkedin.com/in/sandeep-qisanxi"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://dev.to/qisanxi"><img src="https://img.shields.io/badge/DEV%20Community-Blog-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="DEV Community"></a>
-<a href="mailto:sandeepkumarultra615615@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+
+<a href="https://sandeepqisanxidev.vercel.app"><img src="https://img.shields.io/badge/Website-Visit-111111?style=flat-square&logo=vercel&logoColor=white" alt="Website"></a>
+<a href="https://linkedin.com/in/sandeep-qisanxi"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://dev.to/qisanxi"><img src="https://img.shields.io/badge/DEV%20Community-Blog-0A0A0A?style=flat-square&logo=dev.to&logoColor=white" alt="DEV Community"></a>
+<a href="mailto:sandeepkumarultra615615@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
 
 </div>
 
----
-
-### About Me
-
-- I build web applications and tools with AI integrations.
-- I'm exploring agentic workflows and AI harnesses.
-- I enjoy contributing to open-source projects.
+<br clear="right">
 
 <details>
   <summary><b>Main Tech Stack & Tools</b></summary>
@@ -71,6 +64,6 @@ Software developer building web applications and tools with AI integrations.
   </p>
 </details>
 
-<p align="right">
+<p align="Left">
   <img src="https://komarev.com/ghpvc/?username=Qisanxi&style=flat-square&color=0e8a82" alt="Profile views">
 </p>
